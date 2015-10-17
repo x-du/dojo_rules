@@ -1,1 +1,7 @@
-Hi I am Harry. I am an iOS Developer. 
+Hi I am Harry. I am an iOS Developer. I have the following skills: 
+
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
+ 
